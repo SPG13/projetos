@@ -1,1 +1,2 @@
-Select * from sys.local
+Select * from sys.objects
+go
